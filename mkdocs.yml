@@ -1,6 +1,6 @@
-site_name: Obsidian Mkdocs
-site_description: A mkdocs wiki template for Obsidian
-site_url: https://mara-li.github.io/mkdocs_obsidian_template
+site_name: Darren's notes
+site_description: Test test testing
+site_url: https://dxrrennng.github.io/obsidianmd-notes
 
 theme:
     name: 'material'
@@ -10,7 +10,7 @@ theme:
     font:
         text: Karla
         code: Ubuntu Mono
-    language: fr
+    language: en
     palette:
 
     # Light mode
